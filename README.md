@@ -1,4 +1,4 @@
-c-hard-way
+c hard way
 ==========
 
 learn c the hard way
